@@ -1,0 +1,96 @@
+
+body{
+    height: 100%;
+	text-align: center;
+	background-image: url("paul-volkmer-fX-qWsXl5x8-unsplash.jpg"); 
+	background-position: center;
+	background-repeat: no-repeat; 
+	background-size: auto;
+	
+}
+.heading{
+	margin: 25px auto;
+	margin-top: 2cm;
+	padding: 3px;
+	font-size: 60px;
+	font-weight: bold;
+	color: honeydew;
+	
+}
+.title{
+	color: lime;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-size: 65px;
+	
+}
+
+.inputfield{
+	height: 30px;
+	border-radius: 25px;
+    width: auto;
+	padding: 2px;
+	border: 0.4px solid gray;
+	margin-right: 53px;
+	
+	
+}
+
+.btn{
+
+	float: right;
+    background-color: black;
+	padding: 5px;
+	width: 60px;
+	height: 35px;
+	border-radius: 25px;
+	font-weight: bold;
+	margin-left: 2px;
+	color: lime;
+	font-family: 'Hind', sans-serif;
+   
+}
+.btn2{
+	height: 36px;
+	font-weight: bold;
+	border-radius: 25px;
+	background-color: lime;
+	border: 0.4px solid gray;
+	cursor: pointer;
+	font-family: 'Hind', sans-serif;
+	
+}
+.btn2:hover{
+	opacity: 0.8;
+}
+.btn:hover{
+	opacity: 0.8;
+}
+.liwidth{
+	line-height: 40px;
+    font-family: 'Hind', sans-serif;
+	font-weight: bolder;
+	font-size: 19px;
+}
+.main-div{
+	border: 1px solid gray;
+	margin: 0 auto;
+	width: 11cm;
+    height: auto;
+	padding: 4px;
+	background-color: honeydew;
+	border-radius: 15px 15px 15px 15px;
+	
+    
+}
+
+.inputdiv{
+    margin-top: 7px;
+}
+.items{
+   list-style-type: decimal;
+   text-align: left;
+}
+.listdiv{
+    padding: 8px;
+}
